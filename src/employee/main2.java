@@ -15,7 +15,7 @@ public class main2 {
     
     public static void main(String[] args) {
         
-        Employee[] employee = new Employee[1];
+        Employee[] employee = new Employee[10];
 
         for (int i = 0; i < employee.length; i++) {
 
